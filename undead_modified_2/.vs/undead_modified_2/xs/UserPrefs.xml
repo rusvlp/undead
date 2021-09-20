@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{8A969D83-4EA2-1288-F1F4-D59604605D0A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CharacterControl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/medpack.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameController.cs" />
+      <File FileName="Assets/Scripts/CharacterControl.cs" Line="258" Column="35" />
+      <File FileName="Assets/Scripts/Bullet.cs" />
+      <File FileName="Assets/Scripts/CameraController.cs" />
+      <File FileName="Assets/Scripts/ZombieController.cs" />
+      <File FileName="Assets/Scripts/zombie.cs" />
+      <File FileName="Assets/Scripts/ar_ammo_script.cs" />
+      <File FileName="Assets/Scripts/shotgun_ammo_script.cs" />
+      <File FileName="Assets/Scripts/pistol_ammo_script.cs" />
+      <File FileName="Assets/Scripts/LevelCompleteScript.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="undead_modified_2" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b78a52f1-4bb7-4083-9d58-f3052dabe9d9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
